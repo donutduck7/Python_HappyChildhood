@@ -11,3 +11,7 @@ The three most common child abuse and neglect allegations in all counties in Tex
 Question:  Does household income affect type of cases?
 
 Of all allegation types reported, Emotional Abuse had the highest correlation with median income (r = 0.070), & Abandonment had the lowest (r = 0.001). Median household income of a given county had little to no bearing on the types of allegations reported.
+
+Question: Does household income affect number of cases?
+
+From our analysis, we didn't see a strong correlation between household income and number of cases to suggest that there's a strong chance lower household income may lead to a higher number of cases. The highest number of cases were found in Harris county, and other counties that had a comparatively higher amount of cases were towards the lower income threshold. However, the scatterplot did not suggest a strong correlation for us to confirm the said relationship. 
