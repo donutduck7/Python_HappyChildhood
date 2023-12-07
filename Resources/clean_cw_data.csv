@@ -1,0 +1,256 @@
+,County,Abandonment,Emotional Abuse,Labor Trafficking,Medical Neglect,Neglectful Supervision,Physical Abuse,Physical Neglect,Refusal To Accept Parental Responsibility,Sex Trafficking,Sexual Abuse,Fiscal Year,Region,Type of Allegation,Allegation Count
+0,Armstrong,0.0,1.0,0.0,1.0,11.0,5.0,1.0,0.0,0.0,1.0,2022,1-Lubbock,Neglectful Supervision,11
+1,Bailey,0.0,1.0,0.0,2.0,50.0,19.0,9.0,1.0,0.0,15.0,2022,1-Lubbock,Emotional Abuse,1
+2,Briscoe,0.0,2.0,0.0,1.0,8.0,2.0,1.0,1.0,0.0,1.0,2022,1-Lubbock,Neglectful Supervision,8
+3,Carson,2.0,1.0,0.0,4.0,31.0,12.0,3.0,1.0,1.0,12.0,2022,1-Lubbock,Emotional Abuse,1
+4,Castro,0.0,5.0,1.0,8.0,45.0,19.0,6.0,0.0,1.0,13.0,2022,1-Lubbock,Emotional Abuse,5
+5,Childress,0.0,1.0,0.0,5.0,65.0,18.0,7.0,1.0,0.0,27.0,2022,1-Lubbock,Emotional Abuse,1
+6,Cochran,0.0,3.0,0.0,1.0,18.0,3.0,3.0,0.0,0.0,5.0,2022,1-Lubbock,Medical Neglect,1
+7,Collingsworth,1.0,2.0,0.0,1.0,37.0,7.0,2.0,1.0,1.0,14.0,2022,1-Lubbock,Abandonment,1
+8,Crosby,0.0,3.0,0.0,4.0,53.0,18.0,8.0,2.0,0.0,14.0,2022,1-Lubbock,Emotional Abuse,3
+9,Dallam,0.0,4.0,0.0,7.0,56.0,26.0,14.0,1.0,1.0,29.0,2022,1-Lubbock,Emotional Abuse,4
+10,Deaf Smith,1.0,13.0,0.0,15.0,160.0,56.0,19.0,3.0,4.0,58.0,2022,1-Lubbock,Emotional Abuse,13
+11,Dickens,0.0,1.0,0.0,1.0,9.0,4.0,1.0,1.0,0.0,3.0,2022,1-Lubbock,Emotional Abuse,1
+12,Donley,0.0,1.0,0.0,1.0,44.0,18.0,7.0,1.0,0.0,11.0,2022,1-Lubbock,Medical Neglect,1
+13,Floyd,3.0,3.0,0.0,2.0,36.0,15.0,5.0,1.0,0.0,15.0,2022,1-Lubbock,Medical Neglect,2
+14,Garza,0.0,2.0,0.0,2.0,52.0,17.0,3.0,1.0,0.0,22.0,2022,1-Lubbock,Emotional Abuse,2
+15,Gray,4.0,11.0,1.0,19.0,232.0,54.0,30.0,1.0,1.0,88.0,2022,1-Lubbock,Emotional Abuse,11
+16,Hale,1.0,12.0,0.0,12.0,293.0,65.0,48.0,1.0,1.0,100.0,2022,1-Lubbock,Emotional Abuse,12
+17,Hall,0.0,2.0,0.0,3.0,33.0,10.0,11.0,1.0,0.0,11.0,2022,1-Lubbock,Medical Neglect,3
+18,Hansford,1.0,1.0,3.0,6.0,29.0,15.0,1.0,2.0,0.0,20.0,2022,1-Lubbock,Abandonment,1
+19,Hartley,1.0,1.0,0.0,2.0,22.0,8.0,3.0,1.0,0.0,3.0,2022,1-Lubbock,Emotional Abuse,1
+20,Hemphill,0.0,3.0,0.0,1.0,12.0,2.0,3.0,1.0,0.0,2.0,2022,1-Lubbock,Emotional Abuse,3
+21,Hockley,1.0,6.0,0.0,8.0,181.0,59.0,43.0,5.0,2.0,56.0,2022,1-Lubbock,Abandonment,1
+22,Hutchinson,3.0,8.0,0.0,18.0,225.0,79.0,73.0,6.0,1.0,87.0,2022,1-Lubbock,Emotional Abuse,8
+23,King,0.0,1.0,0.0,0.0,2.0,3.0,1.0,0.0,0.0,1.0,2022,1-Lubbock,Neglectful Supervision,2
+24,Lamb,1.0,2.0,0.0,5.0,101.0,46.0,18.0,4.0,2.0,31.0,2022,1-Lubbock,Emotional Abuse,2
+25,Lipscomb,0.0,1.0,0.0,4.0,9.0,1.0,2.0,1.0,0.0,4.0,2022,1-Lubbock,Neglectful Supervision,9
+26,Lubbock,1.0,141.0,0.0,201.0,2499.0,833.0,351.0,23.0,3.0,850.0,2022,1-Lubbock,Abandonment,1
+27,Lynn,1.0,1.0,0.0,6.0,32.0,10.0,12.0,1.0,0.0,9.0,2022,1-Lubbock,Abandonment,1
+28,Moore,1.0,7.0,1.0,8.0,194.0,62.0,35.0,3.0,1.0,62.0,2022,1-Lubbock,Abandonment,1
+29,Motley,0.0,1.0,0.0,1.0,3.0,1.0,1.0,1.0,0.0,1.0,2022,1-Lubbock,Neglectful Supervision,3
+30,Ochiltree,1.0,3.0,0.0,9.0,45.0,16.0,9.0,1.0,1.0,26.0,2022,1-Lubbock,Emotional Abuse,3
+31,Oldham,0.0,1.0,0.0,2.0,3.0,1.0,1.0,1.0,0.0,6.0,2022,1-Lubbock,Neglectful Supervision,3
+32,Parmer,1.0,1.0,0.0,3.0,45.0,15.0,8.0,1.0,1.0,21.0,2022,1-Lubbock,Medical Neglect,3
+33,Potter,6.0,62.0,0.0,132.0,1787.0,543.0,285.0,23.0,5.0,514.0,2022,1-Lubbock,Abandonment,6
+34,Randall,4.0,33.0,1.0,65.0,1034.0,328.0,126.0,13.0,4.0,377.0,2022,1-Lubbock,Abandonment,4
+35,Roberts,0.0,1.0,0.0,3.0,6.0,1.0,0.0,0.0,0.0,3.0,2022,1-Lubbock,Medical Neglect,3
+36,Sherman,0.0,1.0,0.0,1.0,17.0,11.0,7.0,1.0,0.0,2.0,2022,1-Lubbock,Medical Neglect,1
+37,Swisher,1.0,9.0,0.0,3.0,90.0,11.0,22.0,1.0,1.0,28.0,2022,1-Lubbock,Abandonment,1
+38,Terry,1.0,8.0,0.0,10.0,129.0,48.0,9.0,3.0,0.0,42.0,2022,1-Lubbock,Emotional Abuse,8
+39,Wheeler,1.0,1.0,0.0,2.0,33.0,15.0,8.0,1.0,2.0,8.0,2022,1-Lubbock,Medical Neglect,2
+40,Yoakum,0.0,6.0,0.0,1.0,24.0,16.0,3.0,1.0,0.0,10.0,2022,1-Lubbock,Medical Neglect,1
+41,Archer,0.0,1.0,0.0,4.0,37.0,13.0,7.0,1.0,1.0,22.0,2022,2-Abilene,Emotional Abuse,1
+42,Baylor,0.0,1.0,0.0,2.0,41.0,9.0,10.0,1.0,0.0,7.0,2022,2-Abilene,Medical Neglect,2
+43,Brown,1.0,23.0,0.0,35.0,426.0,139.0,52.0,4.0,1.0,130.0,2022,2-Abilene,Emotional Abuse,23
+44,Callahan,0.0,18.0,0.0,12.0,160.0,59.0,30.0,1.0,1.0,45.0,2022,2-Abilene,Emotional Abuse,18
+45,Clay,2.0,3.0,0.0,17.0,118.0,29.0,25.0,2.0,1.0,41.0,2022,2-Abilene,Emotional Abuse,3
+46,Coleman,3.0,3.0,0.0,3.0,90.0,32.0,11.0,1.0,0.0,19.0,2022,2-Abilene,Medical Neglect,3
+47,Comanche,0.0,5.0,4.0,9.0,147.0,42.0,25.0,4.0,4.0,38.0,2022,2-Abilene,Emotional Abuse,5
+48,Cottle,0.0,1.0,0.0,1.0,29.0,1.0,2.0,1.0,0.0,12.0,2022,2-Abilene,Neglectful Supervision,29
+49,Eastland,3.0,7.0,0.0,13.0,168.0,73.0,54.0,2.0,2.0,48.0,2022,2-Abilene,Emotional Abuse,7
+50,Fisher,2.0,3.0,0.0,1.0,36.0,10.0,3.0,0.0,0.0,17.0,2022,2-Abilene,Abandonment,2
+51,Foard,0.0,1.0,0.0,1.0,7.0,5.0,5.0,1.0,0.0,4.0,2022,2-Abilene,Neglectful Supervision,7
+52,Hardeman,0.0,5.0,0.0,3.0,37.0,10.0,8.0,3.0,0.0,5.0,2022,2-Abilene,Emotional Abuse,5
+53,Haskell,1.0,2.0,0.0,5.0,61.0,11.0,6.0,2.0,0.0,19.0,2022,2-Abilene,Emotional Abuse,2
+54,Jack,1.0,7.0,0.0,6.0,83.0,14.0,13.0,0.0,3.0,29.0,2022,2-Abilene,Emotional Abuse,7
+55,Jones,4.0,7.0,2.0,7.0,133.0,37.0,21.0,2.0,1.0,46.0,2022,2-Abilene,Emotional Abuse,7
+56,Kent,0.0,2.0,0.0,2.0,12.0,1.0,3.0,0.0,0.0,3.0,2022,2-Abilene,Emotional Abuse,2
+57,Knox,0.0,3.0,0.0,1.0,19.0,3.0,4.0,1.0,0.0,16.0,2022,2-Abilene,Emotional Abuse,3
+58,Mitchell,3.0,3.0,0.0,10.0,80.0,24.0,10.0,1.0,0.0,31.0,2022,2-Abilene,Emotional Abuse,3
+59,Montague,2.0,17.0,0.0,26.0,198.0,63.0,58.0,2.0,1.0,84.0,2022,2-Abilene,Emotional Abuse,17
+60,Nolan,1.0,9.0,0.0,21.0,255.0,73.0,29.0,1.0,5.0,66.0,2022,2-Abilene,Abandonment,1
+61,Runnels,0.0,3.0,0.0,2.0,99.0,33.0,17.0,1.0,2.0,39.0,2022,2-Abilene,Emotional Abuse,3
+62,Scurry,3.0,7.0,0.0,8.0,195.0,71.0,31.0,6.0,1.0,60.0,2022,2-Abilene,Emotional Abuse,7
+63,Shackelford,1.0,1.0,0.0,1.0,29.0,4.0,3.0,1.0,0.0,7.0,2022,2-Abilene,Emotional Abuse,1
+64,Stephens,0.0,4.0,1.0,5.0,82.0,40.0,11.0,4.0,0.0,14.0,2022,2-Abilene,Emotional Abuse,4
+65,Stonewall,0.0,1.0,0.0,1.0,8.0,5.0,1.0,0.0,0.0,3.0,2022,2-Abilene,Neglectful Supervision,8
+66,Taylor,4.0,69.0,2.0,121.0,2019.0,642.0,237.0,15.0,8.0,532.0,2022,2-Abilene,Abandonment,4
+67,Throckmorton,0.0,1.0,0.0,3.0,12.0,1.0,1.0,2.0,0.0,3.0,2022,2-Abilene,Emotional Abuse,1
+68,Wichita,5.0,72.0,1.0,98.0,1488.0,473.0,191.0,18.0,7.0,486.0,2022,2-Abilene,Abandonment,5
+69,Wilbarger,1.0,7.0,1.0,2.0,126.0,38.0,24.0,5.0,1.0,39.0,2022,2-Abilene,Abandonment,1
+70,Young,1.0,12.0,1.0,8.0,172.0,60.0,35.0,2.0,1.0,45.0,2022,2-Abilene,Abandonment,1
+71,Collin,7.0,309.0,3.0,381.0,3474.0,1337.0,323.0,46.0,9.0,1160.0,2022,3-Arlington,Abandonment,7
+72,Cooke,2.0,15.0,0.0,26.0,344.0,116.0,40.0,4.0,1.0,133.0,2022,3-Arlington,Abandonment,2
+73,Dallas,76.0,793.0,13.0,1123.0,15828.0,5323.0,1546.0,217.0,55.0,4417.0,2022,3-Arlington,Abandonment,76
+74,Denton,15.0,273.0,4.0,385.0,3824.0,1460.0,363.0,42.0,10.0,1236.0,2022,3-Arlington,Abandonment,15
+75,Ellis,4.0,56.0,2.0,78.0,883.0,359.0,101.0,26.0,7.0,381.0,2022,3-Arlington,Abandonment,4
+76,Erath,2.0,21.0,1.0,19.0,348.0,122.0,57.0,4.0,2.0,110.0,2022,3-Arlington,Abandonment,2
+77,Fannin,3.0,22.0,1.0,22.0,250.0,102.0,40.0,1.0,3.0,107.0,2022,3-Arlington,Abandonment,3
+78,Grayson,3.0,50.0,2.0,138.0,1135.0,391.0,196.0,10.0,6.0,420.0,2022,3-Arlington,Abandonment,3
+79,Hood,1.0,30.0,0.0,34.0,464.0,142.0,90.0,8.0,2.0,172.0,2022,3-Arlington,Abandonment,1
+80,Hunt,4.0,31.0,1.0,74.0,806.0,258.0,120.0,9.0,2.0,302.0,2022,3-Arlington,Abandonment,4
+81,Johnson,1.0,76.0,2.0,110.0,1323.0,438.0,155.0,14.0,4.0,430.0,2022,3-Arlington,Abandonment,1
+82,Kaufman,16.0,63.0,1.0,95.0,1048.0,373.0,119.0,13.0,1.0,334.0,2022,3-Arlington,Abandonment,16
+83,Navarro,2.0,14.0,1.0,29.0,367.0,122.0,87.0,2.0,1.0,137.0,2022,3-Arlington,Emotional Abuse,14
+84,Palo Pinto,1.0,12.0,0.0,23.0,264.0,53.0,43.0,3.0,1.0,79.0,2022,3-Arlington,Abandonment,1
+85,Parker,2.0,79.0,1.0,114.0,1041.0,358.0,141.0,12.0,4.0,357.0,2022,3-Arlington,Abandonment,2
+86,Rockwall,1.0,28.0,2.0,48.0,515.0,206.0,40.0,5.0,2.0,186.0,2022,3-Arlington,Abandonment,1
+87,Somervell,0.0,1.0,0.0,7.0,100.0,31.0,11.0,1.0,2.0,27.0,2022,3-Arlington,Emotional Abuse,1
+88,Tarrant,56.0,836.0,6.0,1337.0,14841.0,5204.0,1513.0,164.0,44.0,4055.0,2022,3-Arlington,Abandonment,56
+89,Wise,1.0,16.0,1.0,39.0,477.0,147.0,88.0,6.0,6.0,191.0,2022,3-Arlington,Abandonment,1
+90,Anderson,4.0,25.0,0.0,26.0,356.0,136.0,68.0,5.0,4.0,115.0,2022,4-Tyler,Abandonment,4
+91,Bowie,5.0,34.0,1.0,63.0,722.0,248.0,167.0,10.0,3.0,240.0,2022,4-Tyler,Abandonment,5
+92,Camp,2.0,3.0,0.0,10.0,106.0,28.0,18.0,2.0,0.0,30.0,2022,4-Tyler,Abandonment,2
+93,Cass,1.0,9.0,1.0,22.0,237.0,73.0,26.0,3.0,5.0,81.0,2022,4-Tyler,Abandonment,1
+94,Cherokee,1.0,30.0,0.0,46.0,562.0,179.0,96.0,5.0,3.0,167.0,2022,4-Tyler,Emotional Abuse,30
+95,Delta,0.0,1.0,0.0,2.0,28.0,12.0,9.0,1.0,0.0,14.0,2022,4-Tyler,Emotional Abuse,1
+96,Franklin,1.0,11.0,0.0,6.0,62.0,22.0,9.0,1.0,0.0,19.0,2022,4-Tyler,Abandonment,1
+97,Gregg,4.0,76.0,0.0,54.0,1103.0,348.0,152.0,16.0,4.0,287.0,2022,4-Tyler,Abandonment,4
+98,Harrison,3.0,29.0,0.0,34.0,437.0,178.0,104.0,3.0,1.0,155.0,2022,4-Tyler,Abandonment,3
+99,Henderson,1.0,36.0,0.0,65.0,761.0,267.0,141.0,4.0,2.0,255.0,2022,4-Tyler,Abandonment,1
+100,Hopkins,1.0,19.0,1.0,20.0,305.0,115.0,40.0,3.0,2.0,131.0,2022,4-Tyler,Emotional Abuse,19
+101,Lamar,1.0,14.0,0.0,35.0,450.0,115.0,62.0,1.0,5.0,110.0,2022,4-Tyler,Emotional Abuse,14
+102,Marion,1.0,4.0,0.0,4.0,56.0,23.0,6.0,1.0,1.0,26.0,2022,4-Tyler,Emotional Abuse,4
+103,Morris,4.0,7.0,0.0,15.0,124.0,36.0,16.0,2.0,1.0,44.0,2022,4-Tyler,Emotional Abuse,7
+104,Panola,0.0,10.0,0.0,18.0,141.0,62.0,31.0,1.0,2.0,56.0,2022,4-Tyler,Emotional Abuse,10
+105,Rains,0.0,7.0,0.0,10.0,100.0,31.0,18.0,3.0,1.0,36.0,2022,4-Tyler,Emotional Abuse,7
+106,Red River,1.0,7.0,0.0,10.0,119.0,48.0,32.0,1.0,1.0,51.0,2022,4-Tyler,Emotional Abuse,7
+107,Rusk,1.0,14.0,0.0,32.0,311.0,120.0,29.0,2.0,8.0,95.0,2022,4-Tyler,Abandonment,1
+108,Smith,5.0,95.0,1.0,135.0,1614.0,597.0,192.0,23.0,5.0,535.0,2022,4-Tyler,Abandonment,5
+109,Titus,2.0,19.0,0.0,19.0,215.0,64.0,30.0,1.0,1.0,49.0,2022,4-Tyler,Emotional Abuse,19
+110,Upshur,1.0,19.0,0.0,21.0,309.0,138.0,53.0,4.0,2.0,135.0,2022,4-Tyler,Emotional Abuse,19
+111,Van Zandt,2.0,33.0,1.0,28.0,377.0,160.0,98.0,5.0,0.0,168.0,2022,4-Tyler,Emotional Abuse,33
+112,Wood,2.0,11.0,0.0,15.0,245.0,76.0,46.0,4.0,1.0,93.0,2022,4-Tyler,Abandonment,2
+113,Angelina,3.0,32.0,3.0,63.0,684.0,226.0,113.0,5.0,2.0,255.0,2022,5-Beaumont,Abandonment,3
+114,Hardin,3.0,19.0,1.0,31.0,355.0,142.0,64.0,6.0,2.0,169.0,2022,5-Beaumont,Emotional Abuse,19
+115,Houston,2.0,4.0,0.0,11.0,135.0,52.0,23.0,1.0,3.0,56.0,2022,5-Beaumont,Abandonment,2
+116,Jasper,2.0,11.0,0.0,14.0,270.0,83.0,73.0,1.0,4.0,101.0,2022,5-Beaumont,Emotional Abuse,11
+117,Jefferson,1.0,84.0,1.0,123.0,1545.0,565.0,268.0,23.0,11.0,387.0,2022,5-Beaumont,Abandonment,1
+118,Nacogdoches,1.0,15.0,0.0,29.0,379.0,150.0,81.0,4.0,1.0,100.0,2022,5-Beaumont,Abandonment,1
+119,Newton,2.0,1.0,0.0,4.0,59.0,21.0,12.0,1.0,1.0,27.0,2022,5-Beaumont,Emotional Abuse,1
+120,Orange,1.0,40.0,3.0,60.0,692.0,215.0,109.0,5.0,4.0,244.0,2022,5-Beaumont,Emotional Abuse,40
+121,Polk,1.0,26.0,0.0,38.0,431.0,152.0,103.0,1.0,1.0,150.0,2022,5-Beaumont,Emotional Abuse,26
+122,Sabine,0.0,2.0,0.0,3.0,82.0,19.0,4.0,1.0,1.0,25.0,2022,5-Beaumont,Medical Neglect,3
+123,San Augustine,0.0,2.0,0.0,2.0,57.0,14.0,13.0,1.0,1.0,18.0,2022,5-Beaumont,Emotional Abuse,2
+124,San Jacinto,1.0,8.0,1.0,18.0,203.0,86.0,29.0,1.0,0.0,46.0,2022,5-Beaumont,Abandonment,1
+125,Shelby,2.0,5.0,0.0,8.0,136.0,46.0,25.0,1.0,2.0,62.0,2022,5-Beaumont,Abandonment,2
+126,Trinity,1.0,5.0,0.0,10.0,140.0,29.0,48.0,5.0,1.0,57.0,2022,5-Beaumont,Emotional Abuse,5
+127,Tyler,1.0,10.0,0.0,16.0,203.0,61.0,50.0,2.0,2.0,66.0,2022,5-Beaumont,Emotional Abuse,10
+128,Austin,3.0,8.0,0.0,15.0,162.0,41.0,16.0,1.0,1.0,65.0,2022,6-Houston,Emotional Abuse,8
+129,Brazoria,4.0,92.0,1.0,179.0,1656.0,670.0,232.0,16.0,7.0,636.0,2022,6-Houston,Abandonment,4
+130,Chambers,3.0,11.0,0.0,22.0,214.0,77.0,24.0,3.0,1.0,99.0,2022,6-Houston,Emotional Abuse,11
+131,Colorado,0.0,4.0,0.0,13.0,112.0,35.0,24.0,1.0,1.0,43.0,2022,6-Houston,Emotional Abuse,4
+132,Fort Bend,5.0,201.0,1.0,330.0,2440.0,1114.0,195.0,50.0,3.0,986.0,2022,6-Houston,Abandonment,5
+133,Galveston,4.0,123.0,3.0,180.0,1987.0,708.0,283.0,15.0,10.0,687.0,2022,6-Houston,Abandonment,4
+134,Harris,113.0,1420.0,17.0,2344.0,22936.0,9236.0,2711.0,552.0,119.0,9132.0,2022,6-Houston,Abandonment,113
+135,Liberty,5.0,37.0,1.0,69.0,724.0,302.0,138.0,6.0,3.0,302.0,2022,6-Houston,Abandonment,5
+136,Matagorda,1.0,7.0,0.0,16.0,312.0,86.0,30.0,3.0,1.0,101.0,2022,6-Houston,Emotional Abuse,7
+137,Montgomery,12.0,233.0,5.0,349.0,3590.0,1399.0,485.0,44.0,22.0,1458.0,2022,6-Houston,Abandonment,12
+138,Walker,1.0,20.0,0.0,29.0,302.0,135.0,65.0,4.0,2.0,147.0,2022,6-Houston,Abandonment,1
+139,Waller,1.0,14.0,1.0,24.0,227.0,113.0,16.0,5.0,2.0,95.0,2022,6-Houston,Emotional Abuse,14
+140,Wharton,1.0,15.0,0.0,20.0,280.0,63.0,21.0,2.0,2.0,133.0,2022,6-Houston,Emotional Abuse,15
+141,Bastrop,1.0,45.0,1.0,46.0,690.0,254.0,77.0,8.0,3.0,250.0,2022,7-Austin,Emotional Abuse,45
+142,Bell,24.0,154.0,4.0,292.0,3655.0,1219.0,455.0,67.0,12.0,852.0,2022,7-Austin,Abandonment,24
+143,Blanco,0.0,3.0,0.0,3.0,37.0,19.0,3.0,1.0,0.0,17.0,2022,7-Austin,Emotional Abuse,3
+144,Bosque,1.0,8.0,0.0,14.0,154.0,46.0,31.0,2.0,1.0,48.0,2022,7-Austin,Emotional Abuse,8
+145,Brazos,5.0,58.0,0.0,70.0,1432.0,419.0,137.0,17.0,7.0,349.0,2022,7-Austin,Emotional Abuse,58
+146,Burleson,1.0,5.0,0.0,14.0,134.0,44.0,29.0,2.0,1.0,64.0,2022,7-Austin,Emotional Abuse,5
+147,Burnet,1.0,13.0,11.0,18.0,354.0,99.0,42.0,9.0,2.0,136.0,2022,7-Austin,Abandonment,1
+148,Caldwell,5.0,21.0,0.0,29.0,356.0,121.0,51.0,6.0,2.0,146.0,2022,7-Austin,Abandonment,5
+149,Coryell,1.0,45.0,1.0,82.0,850.0,294.0,132.0,13.0,3.0,242.0,2022,7-Austin,Abandonment,1
+150,Falls,1.0,2.0,0.0,6.0,106.0,35.0,21.0,2.0,1.0,37.0,2022,7-Austin,Emotional Abuse,2
+151,Fayette,1.0,15.0,0.0,18.0,138.0,59.0,25.0,3.0,0.0,56.0,2022,7-Austin,Emotional Abuse,15
+152,Freestone,4.0,9.0,0.0,7.0,147.0,42.0,33.0,1.0,1.0,52.0,2022,7-Austin,Emotional Abuse,9
+153,Grimes,1.0,16.0,1.0,21.0,177.0,62.0,38.0,3.0,1.0,76.0,2022,7-Austin,Emotional Abuse,16
+154,Hamilton,0.0,4.0,0.0,4.0,83.0,23.0,18.0,1.0,0.0,30.0,2022,7-Austin,Emotional Abuse,4
+155,Hays,3.0,75.0,2.0,69.0,1213.0,347.0,114.0,14.0,2.0,369.0,2022,7-Austin,Abandonment,3
+156,Hill,2.0,13.0,2.0,15.0,342.0,101.0,63.0,4.0,1.0,99.0,2022,7-Austin,Emotional Abuse,13
+157,Lampasas,2.0,11.0,0.0,21.0,181.0,66.0,40.0,1.0,1.0,47.0,2022,7-Austin,Abandonment,2
+158,Lee,1.0,3.0,0.0,6.0,108.0,34.0,20.0,1.0,1.0,54.0,2022,7-Austin,Emotional Abuse,3
+159,Leon,1.0,2.0,0.0,8.0,91.0,37.0,15.0,1.0,2.0,27.0,2022,7-Austin,Emotional Abuse,2
+160,Limestone,2.0,14.0,6.0,13.0,175.0,59.0,38.0,3.0,2.0,66.0,2022,7-Austin,Emotional Abuse,14
+161,Llano,1.0,10.0,0.0,10.0,236.0,59.0,34.0,4.0,1.0,65.0,2022,7-Austin,Emotional Abuse,10
+162,Madison,1.0,5.0,0.0,7.0,45.0,18.0,6.0,1.0,1.0,28.0,2022,7-Austin,Emotional Abuse,5
+163,McLennan,5.0,91.0,0.0,170.0,2270.0,641.0,317.0,29.0,11.0,688.0,2022,7-Austin,Abandonment,5
+164,Milam,2.0,9.0,0.0,17.0,196.0,81.0,38.0,8.0,1.0,68.0,2022,7-Austin,Abandonment,2
+165,Mills,0.0,5.0,0.0,7.0,22.0,12.0,14.0,3.0,0.0,7.0,2022,7-Austin,Emotional Abuse,5
+166,Robertson,2.0,2.0,1.0,7.0,130.0,34.0,19.0,4.0,3.0,41.0,2022,7-Austin,Emotional Abuse,2
+167,San Saba,2.0,1.0,0.0,2.0,49.0,14.0,11.0,1.0,0.0,11.0,2022,7-Austin,Emotional Abuse,1
+168,Travis,13.0,329.0,7.0,438.0,6054.0,1895.0,499.0,87.0,45.0,1530.0,2022,7-Austin,Abandonment,13
+169,Washington,0.0,12.0,1.0,18.0,227.0,67.0,17.0,9.0,1.0,73.0,2022,7-Austin,Emotional Abuse,12
+170,Williamson,8.0,214.0,2.0,235.0,2745.0,947.0,265.0,33.0,10.0,860.0,2022,7-Austin,Abandonment,8
+171,Atascosa,1.0,31.0,1.0,45.0,532.0,170.0,75.0,9.0,1.0,181.0,2022,8-San Antonio,Abandonment,1
+172,Bandera,3.0,10.0,0.0,12.0,154.0,49.0,31.0,6.0,1.0,63.0,2022,8-San Antonio,Abandonment,3
+173,Bexar,43.0,832.0,12.0,1224.0,15509.0,5221.0,1766.0,186.0,59.0,4594.0,2022,8-San Antonio,Abandonment,43
+174,Calhoun,2.0,4.0,1.0,5.0,83.0,32.0,15.0,1.0,1.0,26.0,2022,8-San Antonio,Emotional Abuse,4
+175,Comal,5.0,63.0,1.0,94.0,952.0,335.0,100.0,10.0,4.0,314.0,2022,8-San Antonio,Abandonment,5
+176,DeWitt,3.0,12.0,0.0,12.0,151.0,53.0,34.0,2.0,1.0,27.0,2022,8-San Antonio,Emotional Abuse,12
+177,Dimmit,1.0,4.0,0.0,16.0,106.0,36.0,15.0,2.0,1.0,38.0,2022,8-San Antonio,Abandonment,1
+178,Edwards,0.0,1.0,0.0,1.0,21.0,7.0,4.0,1.0,0.0,8.0,2022,8-San Antonio,Neglectful Supervision,21
+179,Frio,1.0,2.0,0.0,11.0,250.0,73.0,30.0,3.0,1.0,48.0,2022,8-San Antonio,Emotional Abuse,2
+180,Gillespie,1.0,5.0,1.0,4.0,85.0,30.0,13.0,1.0,0.0,47.0,2022,8-San Antonio,Emotional Abuse,5
+181,Goliad,1.0,1.0,0.0,5.0,52.0,21.0,5.0,1.0,0.0,16.0,2022,8-San Antonio,Emotional Abuse,1
+182,Gonzales,3.0,6.0,0.0,10.0,189.0,50.0,35.0,3.0,3.0,56.0,2022,8-San Antonio,Abandonment,3
+183,Guadalupe,2.0,63.0,1.0,95.0,1166.0,331.0,124.0,19.0,4.0,403.0,2022,8-San Antonio,Abandonment,2
+184,Jackson,1.0,5.0,0.0,8.0,70.0,27.0,13.0,1.0,1.0,34.0,2022,8-San Antonio,Emotional Abuse,5
+185,Karnes,1.0,8.0,0.0,7.0,150.0,47.0,16.0,2.0,1.0,44.0,2022,8-San Antonio,Emotional Abuse,8
+186,Kendall,1.0,10.0,0.0,13.0,185.0,46.0,12.0,4.0,1.0,75.0,2022,8-San Antonio,Abandonment,1
+187,Kerr,1.0,18.0,0.0,33.0,367.0,93.0,49.0,5.0,1.0,123.0,2022,8-San Antonio,Abandonment,1
+188,Kinney,1.0,1.0,0.0,2.0,25.0,7.0,3.0,1.0,0.0,2.0,2022,8-San Antonio,Medical Neglect,2
+189,La Salle,0.0,4.0,0.0,3.0,81.0,16.0,16.0,1.0,1.0,27.0,2022,8-San Antonio,Emotional Abuse,4
+190,Lavaca,0.0,3.0,0.0,9.0,98.0,35.0,21.0,4.0,0.0,39.0,2022,8-San Antonio,Emotional Abuse,3
+191,Maverick,1.0,4.0,0.0,22.0,253.0,55.0,12.0,1.0,1.0,50.0,2022,8-San Antonio,Abandonment,1
+192,Medina,1.0,19.0,1.0,32.0,386.0,117.0,54.0,2.0,1.0,118.0,2022,8-San Antonio,Abandonment,1
+193,Real,0.0,1.0,0.0,4.0,20.0,8.0,4.0,1.0,0.0,5.0,2022,8-San Antonio,Emotional Abuse,1
+194,Uvalde,3.0,4.0,1.0,14.0,292.0,61.0,25.0,1.0,0.0,65.0,2022,8-San Antonio,Emotional Abuse,4
+195,Val Verde,1.0,9.0,0.0,19.0,242.0,72.0,48.0,2.0,5.0,94.0,2022,8-San Antonio,Abandonment,1
+196,Victoria,4.0,36.0,0.0,70.0,816.0,236.0,100.0,1.0,1.0,248.0,2022,8-San Antonio,Abandonment,4
+197,Wilson,4.0,14.0,1.0,27.0,239.0,74.0,32.0,6.0,2.0,95.0,2022,8-San Antonio,Abandonment,4
+198,Zavala,1.0,7.0,0.0,8.0,97.0,33.0,16.0,1.0,1.0,37.0,2022,8-San Antonio,Emotional Abuse,7
+199,Andrews,1.0,8.0,0.0,9.0,130.0,62.0,17.0,1.0,1.0,25.0,2022,9-Midland,Emotional Abuse,8
+200,Borden,0.0,1.0,0.0,2.0,2.0,3.0,3.0,0.0,0.0,1.0,2022,9-Midland,Neglectful Supervision,2
+201,Coke,0.0,2.0,0.0,1.0,23.0,12.0,3.0,1.0,0.0,8.0,2022,9-Midland,Emotional Abuse,2
+202,Concho,0.0,2.0,0.0,3.0,21.0,7.0,1.0,1.0,0.0,7.0,2022,9-Midland,Medical Neglect,3
+203,Crane,0.0,2.0,0.0,1.0,14.0,2.0,1.0,0.0,2.0,13.0,2022,9-Midland,Medical Neglect,1
+204,Crockett,0.0,1.0,0.0,3.0,29.0,6.0,7.0,1.0,0.0,27.0,2022,9-Midland,Medical Neglect,3
+205,Dawson,3.0,5.0,2.0,8.0,138.0,22.0,25.0,1.0,1.0,71.0,2022,9-Midland,Emotional Abuse,5
+206,Ector,2.0,55.0,2.0,81.0,1303.0,452.0,224.0,8.0,8.0,469.0,2022,9-Midland,Emotional Abuse,55
+207,Gaines,0.0,2.0,1.0,13.0,108.0,27.0,21.0,1.0,0.0,14.0,2022,9-Midland,Emotional Abuse,2
+208,Glasscock,0.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,2022,9-Midland,Medical Neglect,2
+209,Howard,2.0,14.0,1.0,22.0,268.0,96.0,50.0,1.0,1.0,77.0,2022,9-Midland,Abandonment,2
+210,Irion,0.0,2.0,0.0,1.0,13.0,1.0,1.0,1.0,0.0,7.0,2022,9-Midland,Neglectful Supervision,13
+211,Kimble,1.0,2.0,0.0,2.0,38.0,21.0,13.0,2.0,1.0,10.0,2022,9-Midland,Emotional Abuse,2
+212,Loving,0.0,0.0,0.0,0.0,2.0,4.0,2.0,0.0,0.0,4.0,2022,9-Midland,Neglectful Supervision,2
+213,Martin,1.0,5.0,0.0,2.0,23.0,17.0,8.0,1.0,4.0,13.0,2022,9-Midland,Medical Neglect,2
+214,Mason,0.0,1.0,0.0,2.0,21.0,3.0,2.0,1.0,0.0,8.0,2022,9-Midland,Emotional Abuse,1
+215,McCulloch,1.0,3.0,0.0,10.0,93.0,21.0,12.0,2.0,4.0,20.0,2022,9-Midland,Emotional Abuse,3
+216,Menard,0.0,1.0,0.0,1.0,14.0,5.0,1.0,1.0,0.0,2.0,2022,9-Midland,Emotional Abuse,1
+217,Midland,1.0,56.0,0.0,98.0,1070.0,433.0,145.0,8.0,5.0,382.0,2022,9-Midland,Abandonment,1
+218,Pecos,4.0,5.0,0.0,7.0,95.0,19.0,19.0,1.0,1.0,20.0,2022,9-Midland,Emotional Abuse,5
+219,Reagan,0.0,2.0,0.0,2.0,28.0,8.0,1.0,1.0,0.0,11.0,2022,9-Midland,Emotional Abuse,2
+220,Reeves,2.0,3.0,0.0,3.0,105.0,23.0,5.0,1.0,0.0,30.0,2022,9-Midland,Emotional Abuse,3
+221,Schleicher,3.0,2.0,0.0,1.0,13.0,1.0,2.0,1.0,0.0,5.0,2022,9-Midland,Emotional Abuse,2
+222,Sterling,0.0,2.0,0.0,2.0,10.0,2.0,1.0,0.0,0.0,1.0,2022,9-Midland,Emotional Abuse,2
+223,Sutton,0.0,6.0,2.0,2.0,27.0,4.0,2.0,1.0,0.0,7.0,2022,9-Midland,Emotional Abuse,6
+224,Terrell,0.0,1.0,0.0,1.0,3.0,3.0,3.0,0.0,0.0,2.0,2022,9-Midland,Neglectful Supervision,3
+225,Tom Green,5.0,52.0,0.0,83.0,992.0,293.0,104.0,6.0,1.0,229.0,2022,9-Midland,Abandonment,5
+226,Upton,1.0,1.0,0.0,4.0,34.0,11.0,4.0,1.0,0.0,9.0,2022,9-Midland,Abandonment,1
+227,Ward,3.0,1.0,0.0,7.0,96.0,27.0,20.0,2.0,1.0,37.0,2022,9-Midland,Abandonment,3
+228,Winkler,2.0,1.0,0.0,4.0,62.0,11.0,6.0,1.0,2.0,13.0,2022,9-Midland,Emotional Abuse,1
+229,Brewster,1.0,5.0,0.0,4.0,41.0,11.0,13.0,2.0,0.0,9.0,2022,10-El Paso,Emotional Abuse,5
+230,Culberson,0.0,1.0,0.0,2.0,34.0,10.0,3.0,1.0,0.0,13.0,2022,10-El Paso,Medical Neglect,2
+231,El Paso,15.0,346.0,1.0,606.0,4782.0,1858.0,638.0,62.0,18.0,1572.0,2022,10-El Paso,Abandonment,15
+232,Hudspeth,0.0,3.0,0.0,1.0,24.0,6.0,8.0,1.0,0.0,8.0,2022,10-El Paso,Emotional Abuse,3
+233,Jeff Davis,0.0,3.0,0.0,4.0,8.0,1.0,3.0,0.0,0.0,10.0,2022,10-El Paso,Emotional Abuse,3
+234,Presidio,0.0,3.0,0.0,1.0,11.0,7.0,2.0,2.0,1.0,4.0,2022,10-El Paso,Emotional Abuse,3
+235,Aransas,1.0,11.0,0.0,23.0,277.0,73.0,34.0,5.0,1.0,80.0,2022,11-Edinburg,Emotional Abuse,11
+236,Bee,1.0,12.0,1.0,32.0,363.0,116.0,36.0,3.0,6.0,114.0,2022,11-Edinburg,Abandonment,1
+237,Brooks,1.0,2.0,0.0,8.0,111.0,33.0,25.0,3.0,2.0,19.0,2022,11-Edinburg,Emotional Abuse,2
+238,Cameron,7.0,176.0,3.0,307.0,2952.0,904.0,342.0,21.0,6.0,971.0,2022,11-Edinburg,Abandonment,7
+239,Duval,5.0,3.0,0.0,9.0,138.0,27.0,10.0,1.0,4.0,32.0,2022,11-Edinburg,Medical Neglect,9
+240,Hidalgo,19.0,254.0,13.0,476.0,5791.0,1765.0,728.0,59.0,19.0,2178.0,2022,11-Edinburg,Abandonment,19
+241,Jim Hogg,1.0,6.0,0.0,5.0,59.0,10.0,4.0,2.0,0.0,11.0,2022,11-Edinburg,Abandonment,1
+242,Jim Wells,10.0,26.0,0.0,37.0,557.0,172.0,90.0,10.0,2.0,150.0,2022,11-Edinburg,Abandonment,10
+243,Kenedy,0.0,0.0,0.0,0.0,2.0,1.0,4.0,0.0,0.0,1.0,2022,11-Edinburg,Neglectful Supervision,2
+244,Kleberg,0.0,12.0,5.0,27.0,274.0,67.0,49.0,2.0,1.0,104.0,2022,11-Edinburg,Emotional Abuse,12
+245,Live Oak,1.0,11.0,2.0,9.0,91.0,21.0,18.0,4.0,2.0,40.0,2022,11-Edinburg,Emotional Abuse,11
+246,McMullen,0.0,1.0,0.0,2.0,11.0,1.0,4.0,2.0,1.0,3.0,2022,11-Edinburg,Medical Neglect,2
+247,Nueces,9.0,140.0,1.0,225.0,2958.0,972.0,384.0,41.0,12.0,843.0,2022,11-Edinburg,Abandonment,9
+248,Refugio,1.0,5.0,0.0,9.0,59.0,12.0,4.0,1.0,1.0,57.0,2022,11-Edinburg,Emotional Abuse,5
+249,San Patricio,2.0,32.0,1.0,37.0,762.0,227.0,117.0,3.0,7.0,233.0,2022,11-Edinburg,Abandonment,2
+250,Starr,1.0,12.0,1.0,32.0,342.0,102.0,22.0,1.0,3.0,169.0,2022,11-Edinburg,Emotional Abuse,12
+251,Webb,2.0,53.0,1.0,140.0,1520.0,509.0,191.0,16.0,4.0,664.0,2022,11-Edinburg,Abandonment,2
+252,Willacy,1.0,11.0,1.0,6.0,247.0,54.0,40.0,2.0,2.0,57.0,2022,11-Edinburg,Abandonment,1
+253,Zapata,1.0,5.0,0.0,6.0,80.0,21.0,10.0,1.0,1.0,41.0,2022,11-Edinburg,Abandonment,1
+254,Out of State,1.0,2.0,1.0,3.0,18.0,7.0,2.0,1.0,0.0,3.0,2022,Out of State,Medical Neglect,3
