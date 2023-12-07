@@ -7,3 +7,7 @@ Median Household Income per County in Texas Analysis
 Question: What are the common types of maltreatment allegations per county in TX?
 
 The three most common child abuse and neglect allegations in all counties in Texas in 2022 are 1.Neglectful Supervision 2.Physical Abuse 3.Sexual abuse. The bar graph displays the total count of the most common allegations,Neglectful Supervision, for each county. The visualization shows that Guadalupe county had the highest number of Neglectful Supervision allegations. 
+
+Question:  Does household income affect type of cases?
+
+Of all allegation types reported, Emotional Abuse had the highest correlation with median income (r = 0.070), & Abandonment had the lowest (r = 0.001). Median household income of a given county had little to no bearing on the types of allegations reported.
